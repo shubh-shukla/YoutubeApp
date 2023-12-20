@@ -1,0 +1,54 @@
+{
+  "contents": [
+    {
+      "playlist": {
+        "author": {
+          "badges": [
+            {
+              "text": "Verified",
+              "type": "VERIFIED_CHANNEL"
+            }
+          ],
+          "canonicalBaseUrl": "/@CodeWithHarry",
+          "channelId": "UCeVMnSShP_Iviwkknt83cww",
+          "title": "CodeWithHarry"
+        },
+        "playlistId": "PLu0W_9lII9agtWvR_TZdb_r0dNI8-lDwG",
+        "stats": {
+          "videos": 79
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/DZKOunP-WLQ/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLA-IWqSmczutqUrNbEoahErW74g3A",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/DZKOunP-WLQ/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLACHeHcePRkVaO4dAtddwXXjW1x1g",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/DZKOunP-WLQ/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCmpzOCU5dPkQORwq2GZMhU-6xwHw",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/DZKOunP-WLQ/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDyJYI0-xTInWWie8sEKg8D-Ou6uw",
+            "width": 336
+          }
+        ],
+        "title": "Next.js Tutorials for Beginners in Hindi",
+        "updatedTime": null,
+        "updatedTimeText": null
+      },
+      "type": "playlist"
+    }
+  ],
+  "cursorNext": "EowDEgNOZXcahANTQlNDQVF0MmFWZEljMFF5UlY4d1RZSUJDM1kzTWxKQ01rVlFaMnhSZ2dFTFZVOW5iRWh4WVU5elRVR0NBUXN5ZGtGS01VVkpRMmhPVllJQkMxaHNkRFI0V2pkclFVMDRnZ0VMVDNWaUxVUm5RMVYxYTAyQ0FRdHJhMmczVlZKdmJVNWxOSUlCQzJkb2VEbHVURnBxYWxkemdnRUxka1F6VFhwSGVuTXRkVldDQVF0elIydFZNM2N5V1dSQ05JSUJDek00UXkwMk0xZDBRbWxuZ2dFTE5sQXRTMDFHUzI5UVVUaUNBUXRYUkd4VWJUTllhVWR1T0lJQkMzQjVlVTFyYW5GMVZEaE5nZ0VMYUVoTVgybGhiV0psVlZXQ0FRdEhSM0JpYURoelYxTmpUWUlCQzFWeE1WSjBUa05yYTNGM2dnRUxObXRKY1RjMWNqUk1kV09DQVFzeU5UbFFWMUoyT0dsQ1JZSUJDekJTU0dSeU5XNWpWRXhuc2dFR0NnUUlGaEFDGIHg6BgiC3NlYXJjaC1mZWVk",
+  "didYouMean": null,
+  "estimatedResults": 31973675414,
+  "filterGroups": null,
+  "refinements": []
+}

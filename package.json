@@ -1,5 +1,5 @@
 {
-  "name": "YT",
+  "name": "newYT",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,18 +10,25 @@
     "test": "jest"
   },
   "dependencies": {
-    "@gorhom/bottom-sheet": "^4.4.7",
-    "@react-navigation/bottom-tabs": "^6.5.8",
-    "@react-navigation/native": "^6.1.7",
+    "@react-native-community/masked-view": "0.1.10",
+    "@react-navigation/bottom-tabs": "^5.11.8",
+    "@react-navigation/native": "^5.9.3",
+    "@react-navigation/stack": "^5.14.3",
+    "@reduxjs/toolkit": "^1.5.0",
     "react": "18.2.0",
+    "react-dom": "18.2.0",
     "react-native": "0.72.3",
-    "react-native-gesture-handler": "^2.12.1",
-    "react-native-reanimated": "^3.4.2",
-    "react-native-safe-area-context": "^4.7.1",
-    "react-native-screens": "^3.23.0",
-    "react-native-vector-icons": "^10.0.0",
-    "react-native-video": "^6.0.0-alpha.7",
-    "react-number-format": "^5.2.2"
+    "react-native-axios": "^0.17.1",
+    "react-native-elements": "^3.2.0",
+    "react-native-gesture-handler": "~2.12.0",
+    "react-native-reanimated": "^3.5.0-nightly-20230811-f55e831b1",
+    "react-native-safe-area-context": "4.6.3",
+    "react-native-screens": "~3.22.0",
+    "react-native-vector-icons": "^8.0.0",
+    "react-native-video": "^5.2.1",
+    "react-native-web": "~0.19.6",
+    "react-native-webview": "^13.3.1",
+    "react-redux": "^7.2.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
@@ -31,8 +38,6 @@
     "@react-native/metro-config": "^0.72.9",
     "@tsconfig/react-native": "^3.0.0",
     "@types/react": "^18.0.24",
-    "@types/react-native-vector-icons": "^6.4.13",
-    "@types/react-native-video": "^5.0.15",
     "@types/react-test-renderer": "^18.0.0",
     "babel-jest": "^29.2.1",
     "eslint": "^8.19.0",

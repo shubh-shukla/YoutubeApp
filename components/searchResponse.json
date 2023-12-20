@@ -1,0 +1,2144 @@
+{
+    "contents": [
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/ytc/AOPolaS101j27Disa_BYArytv-hXMRl8wNMtqZMTkrfH=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [
+              {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+              }
+            ],
+            "canonicalBaseUrl": "/@WebDevSimplified",
+            "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+            "title": "Web Dev Simplified"
+          },
+          "badges": [],
+          "descriptionSnippet": "Next.js is constantly evolving and one of the biggest updates is the addition of server components and server actions. This video ...",
+          "isLiveNow": false,
+          "lengthSeconds": 1782,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/NgayZAuTgwM/mqdefault_6s.webp?du=3000&sqp=CILSiKcG&rs=AOn4CLAnMcjzon1mOllNI4GF1PoJRiPn8A",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "2 months ago",
+          "stats": {
+            "views": 209248
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/NgayZAuTgwM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoTDGcixfdIXC7w6U0xWsnScXrrQ",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/NgayZAuTgwM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8LsSpsUFKSgDi2nYMhRizohXHoA",
+              "width": 720
+            }
+          ],
+          "title": "Learn Next.js 13 With This One Project",
+          "videoId": "NgayZAuTgwM"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/ytc/AOPolaQ2iMmw9cWFFjnwa13nBwtZQbl-AqGYkkiTqNaTLg=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [
+              {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+              }
+            ],
+            "canonicalBaseUrl": "/@Fireship",
+            "channelId": "UCsBjURrPoezykLs9EqgamOA",
+            "title": "Fireship"
+          },
+          "badges": [
+            "4K"
+          ],
+          "descriptionSnippet": "Next.js version 13 was announced yesterday and it brings huge changes to the framework. They collaborated directly with the ...",
+          "isLiveNow": false,
+          "lengthSeconds": 376,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/_w0Ikk4JY7U/mqdefault_6s.webp?du=3000&sqp=CN_BiKcG&rs=AOn4CLBTuysLTz4MUrgfYYVAUHpEOOrY9A",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "9 months ago",
+          "stats": {
+            "views": 702875
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/_w0Ikk4JY7U/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNUzZ8nFes1UmFdYFgh2DX7M0Kfw",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/_w0Ikk4JY7U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB29YlKt2aUClMlQ-YaOHfJrmGHVg",
+              "width": 720
+            }
+          ],
+          "title": "Next.js 13… this changes everything",
+          "videoId": "_w0Ikk4JY7U"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/ytc/AOPolaQ2iMmw9cWFFjnwa13nBwtZQbl-AqGYkkiTqNaTLg=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [
+              {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+              }
+            ],
+            "canonicalBaseUrl": "/@Fireship",
+            "channelId": "UCsBjURrPoezykLs9EqgamOA",
+            "title": "Fireship"
+          },
+          "badges": [
+            "4K"
+          ],
+          "descriptionSnippet": "#react #webdev #100SecondsOfCode Next.js Docs https://nextjs.org/ Source Code https://github.com/fireship-io/nextjs-basics ...",
+          "isLiveNow": false,
+          "lengthSeconds": 712,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/Sklc_fQBmcs/mqdefault_6s.webp?du=3000&sqp=CKHciKcG&rs=AOn4CLB5W154qAmaKmITe7_lb4Ngj4W5jA",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "2 years ago",
+          "stats": {
+            "views": 858119
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/Sklc_fQBmcs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyju9_MqmXnE3JV6wYSxEmAGwH9Q",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/Sklc_fQBmcs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCVxZnIW4_saG3o-p3lECDeDs8Sw",
+              "width": 720
+            }
+          ],
+          "title": "Next.js in 100 Seconds // Plus Full Beginner's Tutorial",
+          "videoId": "Sklc_fQBmcs"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/ytc/AOPolaRZ_YQDWsp_xli4C-dj0ArYih76vbn_Ck-wg8Dz8w=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [
+              {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+              }
+            ],
+            "canonicalBaseUrl": "/@NetNinja",
+            "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+            "title": "The Net Ninja"
+          },
+          "badges": [],
+          "descriptionSnippet": "In this Next 13 tutorial series, you'll learn how to use Next.js to make a simple project, using the new app router & server ...",
+          "isLiveNow": false,
+          "lengthSeconds": 884,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/TJQbDPGzm0Y/mqdefault_6s.webp?du=3000&sqp=CLzziKcG&rs=AOn4CLCw2Spam3ILPt5F9_TiB37lFqlUYQ",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "10 days ago",
+          "stats": {
+            "views": 18443
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/TJQbDPGzm0Y/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAI2FOBOWusMJYaydJE1S5q0u2s7w",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/TJQbDPGzm0Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVwMm1tn8wCYcTx5l_dL9i21lGjA",
+              "width": 720
+            }
+          ],
+          "title": "Next.js 13 Crash Course Tutorial #1 - Introduction & New Features",
+          "videoId": "TJQbDPGzm0Y"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/wg1TITEoPfxvBGfzuqWyt3bqm_qu35ZhMswUv3feetU3xNX_6wsAXZF40OlPIgY4TmqbqCmAZ1U=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [
+              {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+              }
+            ],
+            "canonicalBaseUrl": "/@javascriptmastery",
+            "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+            "title": "JavaScript Mastery"
+          },
+          "badges": [],
+          "descriptionSnippet": "Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important ...",
+          "isLiveNow": false,
+          "lengthSeconds": 12389,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/wm5gMKuwSYk/mqdefault_6s.webp?du=3000&sqp=CKDWiKcG&rs=AOn4CLC3YYTL8H7GzrdX2UXU81bGYqp3Ig",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "3 months ago",
+          "stats": {
+            "views": 710672
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/wm5gMKuwSYk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8W85Mrg8nhwRNo4zG-9mBvBZPYg",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/wm5gMKuwSYk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyFzaqieifDb3252Ap9dSY3xR-bQ",
+              "width": 720
+            }
+          ],
+          "title": "Next.js 13 Full Course 2023 | Build and Deploy a Full Stack App Using the Official React Framework",
+          "videoId": "wm5gMKuwSYk"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/3MC9XX7rtxeS55uoOQG2nvJ7zaBd17r8Uh0yk_R3KyKjAK_u4RlHhZcTCkx4yym0guGWdefD5Q=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [],
+            "canonicalBaseUrl": "/@beyondfireship",
+            "channelId": "UC2Xd-TjJByJyK2w1zNwY0zQ",
+            "title": "Beyond Fireship"
+          },
+          "badges": [
+            "4K"
+          ],
+          "descriptionSnippet": "Learn about all the new features in Next.js version 13 with a full tutorial. We build a beginner-friendly CRUD app from scratch ...",
+          "isLiveNow": false,
+          "lengthSeconds": 540,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/__mSgDEOyv8/mqdefault_6s.webp?du=3000&sqp=CKrtiKcG&rs=AOn4CLAMU_P7nMsylVS3wGRqJdNKb8tP7A",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "9 months ago",
+          "stats": {
+            "views": 443779
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/__mSgDEOyv8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIJ5uO-LbJn8WGSEwz_HTtios_Aw",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/__mSgDEOyv8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpBOwQdYvkvR0GhhG8uK2UI6fttg",
+              "width": 720
+            }
+          ],
+          "title": "Next.js 13 - The Basics",
+          "videoId": "__mSgDEOyv8"
+        }
+      },
+      {
+        "playlist": {
+          "author": {
+            "badges": [
+              {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+              }
+            ],
+            "canonicalBaseUrl": "/@Codevolution",
+            "channelId": "UC80PWRj_ZU8Zu0HSMNVwKWw",
+            "title": "Codevolution"
+          },
+          "playlistId": "PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH",
+          "stats": {
+            "videos": 79
+          },
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/9P8mASSREYM/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBNHIQVuRQUViMhi1HmyG046-KERA",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/9P8mASSREYM/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBpukq47O8nPqMf_sSUBIgKZqQviQ",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/9P8mASSREYM/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBvdR-m_0N_7dL5dz6aUDmql1jH3Q",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/9P8mASSREYM/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCu4gyleoIe4GMgMXsA1Al-hwwh3g",
+              "width": 336
+            }
+          ],
+          "title": "Next.js Tutorial for Beginners",
+          "updatedTime": null,
+          "updatedTimeText": null
+        },
+        "type": "playlist"
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/ytc/AOPolaTROVx_m_IVqgZIk6WY5paNQNLMdPikPlFBkumo2w=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [],
+            "canonicalBaseUrl": "/@DaveGrayTeachesCode",
+            "channelId": "UCY38RvRIxYODO4penyxUwTg",
+            "title": "Dave Gray"
+          },
+          "badges": [],
+          "descriptionSnippet": "This Next.js Full Course for Beginners is an all-in-one beginner tutorial and complete course full of over 7 hours of Nextjs 13 code ...",
+          "isLiveNow": false,
+          "lengthSeconds": 25438,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/843nec-IvW0/mqdefault_6s.webp?du=3000&sqp=CLfYiKcG&rs=AOn4CLAcCBly1cfBn6w8SD7tQLtxoQxngA",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "3 months ago",
+          "stats": {
+            "views": 196243
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/843nec-IvW0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDI7r53lsMeH_bjwPdANj8c5nRfZg",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/843nec-IvW0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHpJiYDQ5hfQ0RZn1T-ytnGGDybg",
+              "width": 720
+            }
+          ],
+          "title": "Next.js Full Course for Beginners | Nextjs 13 Tutorial | 7 Hours",
+          "videoId": "843nec-IvW0"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/xq9Um1Z_2t3xrcoNZllWs67D0hq5SbLs7JHOGl9kdKy0LOETtHB12GdfygBs6o7CB88XUGr4lQQ=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [],
+            "canonicalBaseUrl": "/@mohaniya15",
+            "channelId": "UCy9sh5WpMetEK1Vn6LaWRNw",
+            "title": "Mohaniya"
+          },
+          "badges": [
+            "New"
+          ],
+          "descriptionSnippet": "Github Project (leave a star!): https://github.com/kshitijmohan15/threads-demon Twitter: KshitijMohan14 Stack: Authentication  : ...",
+          "isLiveNow": false,
+          "lengthSeconds": 6188,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/5y_fD-uTzGo/mqdefault_6s.webp?du=3000&sqp=CNrgiKcG&rs=AOn4CLBLU5cEZBIvrTS497Mv-7AuuksCBA",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "1 day ago",
+          "stats": {
+            "views": 324
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/5y_fD-uTzGo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIIvHwW9dDW9IL3Cc-qEm0BWKuOw",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/5y_fD-uTzGo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCX3KzregVdJDrAMVbQZPrDon9Krg",
+              "width": 720
+            }
+          ],
+          "title": "Build a Full Stack Next.js 13 Threads Clone | React, Typescript, Tailwind, Drizzle, Postgres",
+          "videoId": "5y_fD-uTzGo"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/ytc/AOPolaTROVx_m_IVqgZIk6WY5paNQNLMdPikPlFBkumo2w=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [],
+            "canonicalBaseUrl": "/@DaveGrayTeachesCode",
+            "channelId": "UCY38RvRIxYODO4penyxUwTg",
+            "title": "Dave Gray"
+          },
+          "badges": [],
+          "descriptionSnippet": "This TypeScript Full Course for Beginners is an all-in-one beginner tutorial and complete course full of over 8 hours of TypeScript ...",
+          "isLiveNow": false,
+          "lengthSeconds": 30117,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/gieEQFIfgYc/mqdefault_6s.webp?du=3000&sqp=CJTbiKcG&rs=AOn4CLDLz-xvpK0GLbhbQDjcCXr-r1XLjw",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "6 months ago",
+          "stats": {
+            "views": 227604
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/gieEQFIfgYc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWSpzoJRna4kP_i1AZ35goJX8Kow",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/gieEQFIfgYc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRuHTRKvjz8xrGGioTl56PsQDjMQ",
+              "width": 720
+            }
+          ],
+          "title": "TypeScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours",
+          "videoId": "gieEQFIfgYc"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/FjeN785fVWx0Pr6xCbwPhhq8hHj_gocc3FygDXYDEQgp2gE_FQzRNsFHFAjQ3oE-VJaeGR1a=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [
+              {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+              }
+            ],
+            "canonicalBaseUrl": "/@SonnySangha",
+            "channelId": "UCqeTj_QAnNlmt7FwzNwHZnA",
+            "title": "Sonny Sangha"
+          },
+          "badges": [
+            "4K",
+            "CC"
+          ],
+          "descriptionSnippet": "❗ Let's talk about 5 Productivity Hacks that will improve your workflow efficiency and increase your chance of reaching that ...",
+          "isLiveNow": false,
+          "lengthSeconds": 1107,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/JhtZKvn8zbo/mqdefault_6s.webp?du=3000&sqp=CIzZiKcG&rs=AOn4CLA150d_zJ9rqWJXPqIXyi9jXxWOjw",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "2 years ago",
+          "stats": {
+            "views": 35079
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/JhtZKvn8zbo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVJUo3u-GTYUmU69ncQvOa8oCAqA",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/JhtZKvn8zbo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfZ0aDYB0JQJMlJL81rmBeEZ7dqA",
+              "width": 720
+            }
+          ],
+          "title": "5 PRODUCTIVITY Hacks I Wish I Knew Sooner as a 6-Figure Developer",
+          "videoId": "JhtZKvn8zbo"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/4NapxEtLcHQ6wN2zA_DMmkOk47RFb_gy6sjSmUZGg_ARHjlIUjFsrNFddrcKMkTYpBNxCp3J=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [
+              {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+              }
+            ],
+            "canonicalBaseUrl": "/@t3dotgg",
+            "channelId": "UCbRP3c757lWg9M-U7TyEkXA",
+            "title": "Theo - t3․gg"
+          },
+          "badges": [],
+          "descriptionSnippet": "NextJS is probably the best way to build your next React application. There are few better ways to do full stack with Javascript.",
+          "isLiveNow": false,
+          "lengthSeconds": 1705,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/d2yNsZd5PMs/mqdefault_6s.webp?du=3000&sqp=CNjmiKcG&rs=AOn4CLDlKl_5VqVZEy6lnRtsuZTXcW_5SA",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "10 months ago",
+          "stats": {
+            "views": 107848
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/d2yNsZd5PMs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPWeXamLHYp_sa-Yv43w9SZetmhw",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/d2yNsZd5PMs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIrZmgHc0uigdsG59DZ6yGZY5gKQ",
+              "width": 720
+            }
+          ],
+          "title": "How NextJS REALLY Works",
+          "videoId": "d2yNsZd5PMs"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/4NapxEtLcHQ6wN2zA_DMmkOk47RFb_gy6sjSmUZGg_ARHjlIUjFsrNFddrcKMkTYpBNxCp3J=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [
+              {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+              }
+            ],
+            "canonicalBaseUrl": "/@t3dotgg",
+            "channelId": "UCbRP3c757lWg9M-U7TyEkXA",
+            "title": "Theo - t3․gg"
+          },
+          "badges": [
+            "4K"
+          ],
+          "descriptionSnippet": "I keep seeing people worrying about React Server Components, and I wanted to talk about it ALL MY VIDEOS ARE POSTED ...",
+          "isLiveNow": false,
+          "lengthSeconds": 1094,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/spvZ0LRgnuU/mqdefault_6s.webp?du=3000&sqp=CLrviKcG&rs=AOn4CLCku9SWuwAOqv2VoFj_0I3HxnAJhA",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "1 month ago",
+          "stats": {
+            "views": 48188
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/spvZ0LRgnuU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1r1_kMFN_eCwbB0gmHC89_W7XLQ",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/spvZ0LRgnuU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyHKV0-x8beYbnLccPUyAV4GvE5g",
+              "width": 720
+            }
+          ],
+          "title": "Why Everyone's Mad At React Right Now",
+          "videoId": "spvZ0LRgnuU"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/tBihxyjrplGgivan-5AGRUUTND7pXJvz0t4c9AflUtH68Xk7nvrQk4z8ZSLedpdf_yezYxYfaA=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [],
+            "canonicalBaseUrl": "/@elliottchong",
+            "channelId": "UCnb5XvHP--EklbZCu_WvAGQ",
+            "title": "Elliott Chong"
+          },
+          "badges": [
+            "New"
+          ],
+          "descriptionSnippet": "GitHub Repo: https://github.com/elliott-chong/learning-journey-yt Welcome to this comprehensive full-stack tutorial where we ...",
+          "isLiveNow": false,
+          "lengthSeconds": 21602,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/EGW2HS2tqAQ/mqdefault_6s.webp?du=3000&sqp=CJzXiKcG&rs=AOn4CLB2wWxFW1KDqWFJ1TyqzgdnIjkWig",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "5 hours ago",
+          "stats": {
+            "views": 838
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/EGW2HS2tqAQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAQNtHuEBQJGAOX7me3yalAEAiYQ",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/EGW2HS2tqAQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQZASTJOlagHA1Dt_g5d3O4RjYqg",
+              "width": 720
+            }
+          ],
+          "title": "Build & Deploy: Full Stack AI Course Generator SaaS with NextJS 13, OpenAI, Stripe, TailwindCSS",
+          "videoId": "EGW2HS2tqAQ"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/ytc/AOPolaTROVx_m_IVqgZIk6WY5paNQNLMdPikPlFBkumo2w=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [],
+            "canonicalBaseUrl": "/@DaveGrayTeachesCode",
+            "channelId": "UCY38RvRIxYODO4penyxUwTg",
+            "title": "Dave Gray"
+          },
+          "badges": [],
+          "descriptionSnippet": "This React JS Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly 9 hours of React JS ...",
+          "isLiveNow": false,
+          "lengthSeconds": 31746,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/RVFAyFWO4go/mqdefault_6s.webp?du=3000&sqp=CNyxiKcG&rs=AOn4CLCg59JMxuKCTbphFFVWrsAOKfpMuQ",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "1 year ago",
+          "stats": {
+            "views": 613004
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/RVFAyFWO4go/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuF5YIuJTgbL7xKqxVa1YwFc6coA",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/RVFAyFWO4go/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZDSE2IiSKBicDrByZyelKvSsiFg",
+              "width": 720
+            }
+          ],
+          "title": "React JS Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours",
+          "videoId": "RVFAyFWO4go"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/4NapxEtLcHQ6wN2zA_DMmkOk47RFb_gy6sjSmUZGg_ARHjlIUjFsrNFddrcKMkTYpBNxCp3J=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [
+              {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+              }
+            ],
+            "canonicalBaseUrl": "/@t3dotgg",
+            "channelId": "UCbRP3c757lWg9M-U7TyEkXA",
+            "title": "Theo - t3․gg"
+          },
+          "badges": [
+            "4K"
+          ],
+          "descriptionSnippet": "It's no secret that I'm a React Native fan. It's truly a shame that this AirBNB article will be cited as reason to not use it for the rest of ...",
+          "isLiveNow": false,
+          "lengthSeconds": 498,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/ZM8lJIJb2Q4/mqdefault_6s.webp?du=3000&sqp=CNbZiKcG&rs=AOn4CLC1ZoIsqSOl11A75orc3CcYS-213A",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "1 month ago",
+          "stats": {
+            "views": 67338
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/ZM8lJIJb2Q4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXYYry_t9irGtY-AHyhb7TtgHRVg",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/ZM8lJIJb2Q4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoYdIH3_DD8M0NVukhBbNTDpQA-Q",
+              "width": 720
+            }
+          ],
+          "title": "I think about this article a lot...",
+          "videoId": "ZM8lJIJb2Q4"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/BOomnT3SS1g-FQSUVBy51TaK2ylqbQzD8zeV783mM-W1q3MMbvE8jdjEeWwFqHmlm5Dk4dSAtg=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [],
+            "canonicalBaseUrl": "/@joshtriedcoding",
+            "channelId": "UCvGwM5woTl13I-qThI4YMCg",
+            "title": "Josh tried coding"
+          },
+          "badges": [],
+          "descriptionSnippet": "-- Features Infinite scrolling for dynamically loading posts Authentication using NextAuth & Google Custom feed for authenticated ...",
+          "isLiveNow": false,
+          "lengthSeconds": 35206,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/mSUKMfmLAt0/mqdefault_6s.webp?du=3000&sqp=CL_ciKcG&rs=AOn4CLA-Ao9i3zWjXwmUtft1LoSD_cWriQ",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "2 months ago",
+          "stats": {
+            "views": 124325
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/mSUKMfmLAt0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDcKu1Ylf7445zYK0KseQ0X68vRQ",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/mSUKMfmLAt0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWCmfdVD2BwJnLVQbCl6TSg3h5SQ",
+              "width": 720
+            }
+          ],
+          "title": "Build and Deploy a Fullstack Reddit Clone: Next.js 13, React, Tailwind, Auth, Prisma, MySQL",
+          "videoId": "mSUKMfmLAt0"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/4-_80xHFXwX27JazINVIscTnJMZyJ2cpu3oa_SZr3ICSqiTb_YMrPJfB1wTxvPfRmFFJfaQ8=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [],
+            "canonicalBaseUrl": "/@uidotdev",
+            "channelId": "UCbAn7pVK2VIyo-UysfWGdZQ",
+            "title": "uidotdev"
+          },
+          "badges": [
+            "4K"
+          ],
+          "descriptionSnippet": "This is the story of how Next.js took over the world.",
+          "isLiveNow": false,
+          "lengthSeconds": 733,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/BILxV_vrZO0/mqdefault_6s.webp?du=3000&sqp=CIfXiKcG&rs=AOn4CLDfH2i_b2OF9OE3gBGKCNbXpZ-0xQ",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "1 year ago",
+          "stats": {
+            "views": 499643
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/BILxV_vrZO0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIfH3ZkDqlGH1iWAtSMdDHGwJUOg",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/BILxV_vrZO0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClSo8eqdjAC72ty4SCzRqgupwwdg",
+              "width": 720
+            }
+          ],
+          "title": "The Story of Next.js",
+          "videoId": "BILxV_vrZO0"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/ytc/AOPolaTs1IEit9EUooQAJkWS4SkpUE7oMDXYrjIgnOk1Kw=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [
+              {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+              }
+            ],
+            "canonicalBaseUrl": "/@freecodecamp",
+            "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+            "title": "freeCodeCamp.org"
+          },
+          "badges": [],
+          "descriptionSnippet": "In this Next.js course for beginners, you will learn how to build a full-stack App from scratch. We'll also learn how to deploy the App ...",
+          "isLiveNow": false,
+          "lengthSeconds": 17257,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/KjY94sAKLlw/mqdefault_6s.webp?du=3000&sqp=CITaiKcG&rs=AOn4CLDJQ-Yo2ypJySxrYD5VPF6MRmToyA",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "8 months ago",
+          "stats": {
+            "views": 519845
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/KjY94sAKLlw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNZ4AhBKZUvHVCT6M2FDtdn4Fi4Q",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/KjY94sAKLlw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwAZZqfnuXCyK8-F8PuLRjh4eNmQ",
+              "width": 720
+            }
+          ],
+          "title": "Next.js React Framework Course – Build and Deploy a Full Stack App From scratch",
+          "videoId": "KjY94sAKLlw"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/wg1TITEoPfxvBGfzuqWyt3bqm_qu35ZhMswUv3feetU3xNX_6wsAXZF40OlPIgY4TmqbqCmAZ1U=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [
+              {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+              }
+            ],
+            "canonicalBaseUrl": "/@javascriptmastery",
+            "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+            "title": "JavaScript Mastery"
+          },
+          "badges": [],
+          "descriptionSnippet": "The demand for Next.js 13 applications peaked! Now is the perfect time to build a state-of-the-art modern application that utilizes ...",
+          "isLiveNow": false,
+          "lengthSeconds": 12370,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/pUNSHPyVryU/mqdefault_6s.webp?du=3000&sqp=CODQiKcG&rs=AOn4CLCzUC9CMqAB03mxpQYxf-hWimsdKA",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "2 months ago",
+          "stats": {
+            "views": 310545
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/pUNSHPyVryU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVDgrYD8B5tCPKM_dV3FnqnYJ-iw",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/pUNSHPyVryU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXvuJM45DMeWGGf6QlT5XqQ9jg9g",
+              "width": 720
+            }
+          ],
+          "title": "Build and Deploy a Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS",
+          "videoId": "pUNSHPyVryU"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/FjeN785fVWx0Pr6xCbwPhhq8hHj_gocc3FygDXYDEQgp2gE_FQzRNsFHFAjQ3oE-VJaeGR1a=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [
+              {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+              }
+            ],
+            "canonicalBaseUrl": "/@SonnySangha",
+            "channelId": "UCqeTj_QAnNlmt7FwzNwHZnA",
+            "title": "Sonny Sangha"
+          },
+          "badges": [
+            "4K"
+          ],
+          "descriptionSnippet": "JOIN the world's BEST developer Course & Community Zero to Full Stack Hero: https://www.papareact.com/course 🖥️ Join me ...",
+          "isLiveNow": false,
+          "lengthSeconds": 68836,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/7DVdVGm7Ht8/mqdefault_6s.webp?du=3000&sqp=CNLFiKcG&rs=AOn4CLC8reDqTYYzbbIo7Xv2HtZzw9KtaQ",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "10 days ago",
+          "stats": {
+            "views": 45673
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/7DVdVGm7Ht8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBroNLyRL7VzlfAsK-ksmIihnAldQ",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/7DVdVGm7Ht8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIPQzn60_CXB30etg3TCor6QKyEA",
+              "width": 720
+            }
+          ],
+          "title": "The Ultimate NEXT.JS 13 Crash Course for Beginners - Build 6 Apps in 18 Hours! (2023)",
+          "videoId": "7DVdVGm7Ht8"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/ytc/AOPolaT_7mZQjCdmaa3h1bJ-jUspCCfvL_1MNLRWYP-L3A=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [
+              {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+              }
+            ],
+            "canonicalBaseUrl": "/@TraversyMedia",
+            "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+            "title": "Traversy Media"
+          },
+          "badges": [],
+          "descriptionSnippet": "A complete crash course to NextJS version 13 and it's new features such as the app directory structure, routing, React Server ...",
+          "isLiveNow": false,
+          "lengthSeconds": 4965,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/Y6KDk5iyrYE/mqdefault_6s.webp?du=3000&sqp=CKLxiKcG&rs=AOn4CLAor7_74Za_mL-wd4ztkvmlyjz2vg",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "4 months ago",
+          "stats": {
+            "views": 156164
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/Y6KDk5iyrYE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADG8J149H6hdXaNan79XS_sK-pOQ",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/Y6KDk5iyrYE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBN77i0thakkZVBXr0PaVA3M7OUMA",
+              "width": 720
+            }
+          ],
+          "title": "Next.js 13 Crash Course | App Directory, React Server Components & More",
+          "videoId": "Y6KDk5iyrYE"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/3MC9XX7rtxeS55uoOQG2nvJ7zaBd17r8Uh0yk_R3KyKjAK_u4RlHhZcTCkx4yym0guGWdefD5Q=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [],
+            "canonicalBaseUrl": "/@beyondfireship",
+            "channelId": "UC2Xd-TjJByJyK2w1zNwY0zQ",
+            "title": "Beyond Fireship"
+          },
+          "badges": [
+            "4K"
+          ],
+          "descriptionSnippet": "A full tutorial and breakdown of the new Next.js Server Actions feature. Learn how to handle form submissions and implement ...",
+          "isLiveNow": false,
+          "lengthSeconds": 471,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/O94ESaJtHtM/mqdefault_6s.webp?du=3000&sqp=CPTwiKcG&rs=AOn4CLA90rgKBD5pmRfOiUuyvhl2WNdamQ",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "3 months ago",
+          "stats": {
+            "views": 181690
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/O94ESaJtHtM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvP4KpzgAHQs9tAXoQWvV0lULADg",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/O94ESaJtHtM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqhjVAzdtYrOM0Uo7M3YSpfVk4Tg",
+              "width": 720
+            }
+          ],
+          "title": "Next.js Server Actions...  5 awesome things you can do",
+          "videoId": "O94ESaJtHtM"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/ytc/AOPolaQ1H8-GlXlkBsjxPw8xGDoRb5gY8o324XpHC3uULA=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [],
+            "canonicalBaseUrl": "/@VercelHQ",
+            "channelId": "UCLq8gNoee7oXM7MvTdjyQvA",
+            "title": "Vercel"
+          },
+          "badges": [
+            "4K",
+            "CC"
+          ],
+          "descriptionSnippet": "#vercel #nextjs #approuter.",
+          "isLiveNow": false,
+          "lengthSeconds": 233,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/DrxiNfbr63s/mqdefault_6s.webp?du=3000&sqp=CLLziKcG&rs=AOn4CLCxDqf8QpH5au_2ErpZV58o9gBl3w",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "3 months ago",
+          "stats": {
+            "views": 66043
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/DrxiNfbr63s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9rqDdKXvG_N5zLrMS0DeEf_QUfw",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/DrxiNfbr63s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPRE1Ixkm6FX5WBESE-3aHc6VUDw",
+              "width": 720
+            }
+          ],
+          "title": "Introducing Next.js App Router",
+          "videoId": "DrxiNfbr63s"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/4NapxEtLcHQ6wN2zA_DMmkOk47RFb_gy6sjSmUZGg_ARHjlIUjFsrNFddrcKMkTYpBNxCp3J=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [
+              {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+              }
+            ],
+            "canonicalBaseUrl": "/@t3dotgg",
+            "channelId": "UCbRP3c757lWg9M-U7TyEkXA",
+            "title": "Theo - t3․gg"
+          },
+          "badges": [
+            "4K"
+          ],
+          "descriptionSnippet": "I love Next.js when it's used correctly. I love it even more when used incorrectly. Hope this video shows some of the cool Next.js ...",
+          "isLiveNow": false,
+          "lengthSeconds": 353,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/AAK_tbp3GjU/mqdefault_6s.webp?du=3000&sqp=CP32iKcG&rs=AOn4CLATzJ8ncL8Y41Kfpb3J1UGK_sK8dg",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "3 weeks ago",
+          "stats": {
+            "views": 43209
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/AAK_tbp3GjU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCF_Tw2cze6X5Bs8WmqCHJmIXPO_Q",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/AAK_tbp3GjU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYR6WM70Jfz3F9CIrf1n-svyBn8A",
+              "width": 720
+            }
+          ],
+          "title": "Using Next.js The Wrong Way",
+          "videoId": "AAK_tbp3GjU"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/BOomnT3SS1g-FQSUVBy51TaK2ylqbQzD8zeV783mM-W1q3MMbvE8jdjEeWwFqHmlm5Dk4dSAtg=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [],
+            "canonicalBaseUrl": "/@joshtriedcoding",
+            "channelId": "UCvGwM5woTl13I-qThI4YMCg",
+            "title": "Josh tried coding"
+          },
+          "badges": [],
+          "descriptionSnippet": "Since its release in May, the Next.js App Router is loved by many and criticized by others for not being production-ready. Which ...",
+          "isLiveNow": false,
+          "lengthSeconds": 451,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/EYDOXzpTRvw/mqdefault_6s.webp?du=3000&sqp=CIDWiKcG&rs=AOn4CLAriylEuVncVpd0gBja7vRN9KIG-w",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "2 months ago",
+          "stats": {
+            "views": 24527
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/EYDOXzpTRvw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGmIiODmcumnFaTrvrwQsbe-CsPQ",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/EYDOXzpTRvw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALZAwIpbUqucsEPvbe8VxSLg94RA",
+              "width": 720
+            }
+          ],
+          "title": "Next.js App vs. Pages Router - Which One is Better?",
+          "videoId": "EYDOXzpTRvw"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/BOomnT3SS1g-FQSUVBy51TaK2ylqbQzD8zeV783mM-W1q3MMbvE8jdjEeWwFqHmlm5Dk4dSAtg=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [],
+            "canonicalBaseUrl": "/@joshtriedcoding",
+            "channelId": "UCvGwM5woTl13I-qThI4YMCg",
+            "title": "Josh tried coding"
+          },
+          "badges": [],
+          "descriptionSnippet": "NextJS is a full-stack framework. True! Its API routes are convenient and scale well. Also true! Why am I still using ExpressJS ...",
+          "isLiveNow": false,
+          "lengthSeconds": 323,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/6xvLUWpCSFM/mqdefault_6s.webp?du=3000&sqp=CLHRiKcG&rs=AOn4CLBNEJXEuyEuHyiyBoqLlxUVAQM9Bw",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "3 months ago",
+          "stats": {
+            "views": 49763
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/6xvLUWpCSFM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbbvhxCUvz7voOFPCfuEvxgAcdrg",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/6xvLUWpCSFM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKL2AJecJaVI_EXljZSzco1bhkpw",
+              "width": 720
+            }
+          ],
+          "title": "Why I'm Using Express Instead of NextJS",
+          "videoId": "6xvLUWpCSFM"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/WfEqekfCKp7ZOAuFAOY6mJ6mM9vyfZsSJOVgNTkON4iCZ7k5GdfEmnzvO4OBlaO8m4_oJbsu-Q=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [],
+            "canonicalBaseUrl": "/@leerob",
+            "channelId": "UCZMli3czZnd1uoc1ShTouQw",
+            "title": "Lee Robinson"
+          },
+          "badges": [
+            "4K"
+          ],
+          "descriptionSnippet": "Learn how to use the Next.js Image Component (next/image) to automatically optimize images and prevent layout shift, helping ...",
+          "isLiveNow": false,
+          "lengthSeconds": 550,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/IU_qq_c_lKA/mqdefault_6s.webp?du=3000&sqp=CIDtiKcG&rs=AOn4CLD8PaWLDpvs_QbTrG2E7tiuDbZ-LA",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "1 month ago",
+          "stats": {
+            "views": 30222
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/IU_qq_c_lKA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBackwuw4oiXkKBhUJCSSJBMkCFGw",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/IU_qq_c_lKA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA700KPh2Z-HbvwTlc7pK1Bw_hJ9Q",
+              "width": 720
+            }
+          ],
+          "title": "Using Images in Next.js (next/image examples)",
+          "videoId": "IU_qq_c_lKA"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/BOomnT3SS1g-FQSUVBy51TaK2ylqbQzD8zeV783mM-W1q3MMbvE8jdjEeWwFqHmlm5Dk4dSAtg=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [],
+            "canonicalBaseUrl": "/@joshtriedcoding",
+            "channelId": "UCvGwM5woTl13I-qThI4YMCg",
+            "title": "Josh tried coding"
+          },
+          "badges": [],
+          "descriptionSnippet": "NextJS 13.4 has just dropped. Everyone's talking about the all-new \"server actions\". What are they? And why are they a totally ...",
+          "isLiveNow": false,
+          "lengthSeconds": 413,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/bfFCnjAy_9s/mqdefault_6s.webp?du=3000&sqp=CKD4iKcG&rs=AOn4CLAXnpKEEj-SkrtDqMYrfSfeEYB8TA",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "3 months ago",
+          "stats": {
+            "views": 30679
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/bfFCnjAy_9s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAd9mWPASVKgosMj2a3WVW1FubJJg",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/bfFCnjAy_9s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyjO99MByGgOamgqOwQzPCC_oAIQ",
+              "width": 720
+            }
+          ],
+          "title": "The New Way to Write NextJS: What's the Catch?",
+          "videoId": "bfFCnjAy_9s"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/4NapxEtLcHQ6wN2zA_DMmkOk47RFb_gy6sjSmUZGg_ARHjlIUjFsrNFddrcKMkTYpBNxCp3J=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [
+              {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+              }
+            ],
+            "canonicalBaseUrl": "/@t3dotgg",
+            "channelId": "UCbRP3c757lWg9M-U7TyEkXA",
+            "title": "Theo - t3․gg"
+          },
+          "badges": [
+            "4K"
+          ],
+          "descriptionSnippet": "Next.js Server Actions have been a long time coming, so happy we can finally talk about them! Check out zact: ...",
+          "isLiveNow": false,
+          "lengthSeconds": 702,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/9WvJDor5uvo/mqdefault_6s.webp?du=3000&sqp=CJ7iiKcG&rs=AOn4CLC9aq9ZQB9AjMBa_dYgZS9_F411kg",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "3 months ago",
+          "stats": {
+            "views": 49561
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/9WvJDor5uvo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAl3629vRuTqMTxXdwHAHL3LtoLjw",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/9WvJDor5uvo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJa0csmDSqBjSS4P2tkuSXAYkZeA",
+              "width": 720
+            }
+          ],
+          "title": "I Fixed Next.js Server Actions",
+          "videoId": "9WvJDor5uvo"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/BOomnT3SS1g-FQSUVBy51TaK2ylqbQzD8zeV783mM-W1q3MMbvE8jdjEeWwFqHmlm5Dk4dSAtg=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [],
+            "canonicalBaseUrl": "/@joshtriedcoding",
+            "channelId": "UCvGwM5woTl13I-qThI4YMCg",
+            "title": "Josh tried coding"
+          },
+          "badges": [],
+          "descriptionSnippet": "These 2 advanced routing features have been added in NextJS 13. Knowing how to properly use intercepting and parallel routes ...",
+          "isLiveNow": false,
+          "lengthSeconds": 482,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/pTsmh36ZB8c/mqdefault_6s.webp?du=3000&sqp=CLfniKcG&rs=AOn4CLC6bhwepntpilZ_UDLDjocxhA7vYw",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "2 months ago",
+          "stats": {
+            "views": 32125
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/pTsmh36ZB8c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSks83GXnIP_B9UcfpAagt0qKQcw",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/pTsmh36ZB8c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDn1nsKFyISyFdp-RRuHXqyRcDxQA",
+              "width": 720
+            }
+          ],
+          "title": "When Did NextJS Routing Become so Advanced??!",
+          "videoId": "pTsmh36ZB8c"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/BOomnT3SS1g-FQSUVBy51TaK2ylqbQzD8zeV783mM-W1q3MMbvE8jdjEeWwFqHmlm5Dk4dSAtg=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [],
+            "canonicalBaseUrl": "/@joshtriedcoding",
+            "channelId": "UCvGwM5woTl13I-qThI4YMCg",
+            "title": "Josh tried coding"
+          },
+          "badges": [],
+          "descriptionSnippet": "I prefer Next over all the other frameworks. Makes me and many others insanely productive. But caching in Next.js 13? Aw man it ...",
+          "isLiveNow": false,
+          "lengthSeconds": 420,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/_yhSh4g0NSk/mqdefault_6s.webp?du=3000&sqp=CJvIiKcG&rs=AOn4CLD5uK2w0aWNiPahWoo3OOomg56Etg",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "13 days ago",
+          "stats": {
+            "views": 16571
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/_yhSh4g0NSk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_aRbnceGMwxBdyW3J4urfcge0HQ",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/_yhSh4g0NSk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmdUmxDB_m_FFhHp991nyo6tLNZQ",
+              "width": 720
+            }
+          ],
+          "title": "I Hate Next.js 13 Caching Even More Now",
+          "videoId": "_yhSh4g0NSk"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/ytc/AOPolaQ1H8-GlXlkBsjxPw8xGDoRb5gY8o324XpHC3uULA=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [],
+            "canonicalBaseUrl": "/@VercelHQ",
+            "channelId": "UCLq8gNoee7oXM7MvTdjyQvA",
+            "title": "Vercel"
+          },
+          "badges": [
+            "CC"
+          ],
+          "descriptionSnippet": "⌛️ Timestamps: 0:00 Introduction 0:10 Routing 2:57 Dynamic route segments 4:53 Data fetching 7:36 Caching 11:42 Metadata ...",
+          "isLiveNow": false,
+          "lengthSeconds": 872,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/gSSsZReIFRk/mqdefault_6s.webp?du=3000&sqp=COPuiKcG&rs=AOn4CLAjHXGpddV7fgrTk0q3iccrbgbdng",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "4 months ago",
+          "stats": {
+            "views": 178731
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/gSSsZReIFRk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMWM65CSrhOYt8UoujS25xgIdtdw",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/gSSsZReIFRk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCj0P7lhEk1R3vmkgiPX3fhWa5y3Q",
+              "width": 720
+            }
+          ],
+          "title": "Next.js App Router: Routing, Data Fetching, Caching",
+          "videoId": "gSSsZReIFRk"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/ytc/AOPolaT_7mZQjCdmaa3h1bJ-jUspCCfvL_1MNLRWYP-L3A=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [
+              {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+              }
+            ],
+            "canonicalBaseUrl": "/@TraversyMedia",
+            "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+            "title": "Traversy Media"
+          },
+          "badges": [],
+          "descriptionSnippet": "In this video we will look at the fundamentals of Next.js such as SSR & SSG, routing, data fetching, apis and more Code: ...",
+          "isLiveNow": false,
+          "lengthSeconds": 4185,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/mTz0GXj8NN0/mqdefault_6s.webp?du=3000&sqp=CNnkiKcG&rs=AOn4CLCQ_moe7z6klesmpnm6-ImLuKACCw",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "2 years ago",
+          "stats": {
+            "views": 756793
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/mTz0GXj8NN0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_cJ0xV6gGoOviLtGcVsVI5q-88A",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/mTz0GXj8NN0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCObLkKlCdlmX-bU9TwThxVd_m5Ew",
+              "width": 720
+            }
+          ],
+          "title": "Next.js Crash Course",
+          "videoId": "mTz0GXj8NN0"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/ytc/AOPolaTs1IEit9EUooQAJkWS4SkpUE7oMDXYrjIgnOk1Kw=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [
+              {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+              }
+            ],
+            "canonicalBaseUrl": "/@freecodecamp",
+            "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+            "title": "freeCodeCamp.org"
+          },
+          "badges": [
+            "4K"
+          ],
+          "descriptionSnippet": "Learn Next.js by building a custom API with MongoDB using the latest app router. You will build an authentication system that can ...",
+          "isLiveNow": false,
+          "lengthSeconds": 21317,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/ETV17M4SauU/mqdefault_6s.webp?du=3000&sqp=CMvZiKcG&rs=AOn4CLA3Ag71MeINtn0Hh2zlkCzUs4cEYw",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "3 weeks ago",
+          "stats": {
+            "views": 78067
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/ETV17M4SauU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_CYUa99WeGvAqFzsf4XQBvte6hQ",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/ETV17M4SauU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPvWiHu-nE7YvmjzZstOm-MbnKDA",
+              "width": 720
+            }
+          ],
+          "title": "Next.js & Appwrite – Full Stack Course for Beginners",
+          "videoId": "ETV17M4SauU"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/ytc/AOPolaSKQnVS0PWsb1jwg2XOzWrHFGLJjw2sQy7xUY6D=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [],
+            "canonicalBaseUrl": "/@midulive",
+            "channelId": "UC3aj05GEEyzdOqYM5FLSFeg",
+            "title": "midulive"
+          },
+          "badges": [
+            "New"
+          ],
+          "descriptionSnippet": "Crearemos desde cero un Clon de Twitter ccon Next.js 13, React, Supabase, TailwindCSS y NextUI2 para este proyecto, además ...",
+          "isLiveNow": false,
+          "lengthSeconds": 8236,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/V_kD2q_aoy8/mqdefault_6s.webp?du=3000&sqp=CI7MiKcG&rs=AOn4CLDJpFESnEFiLK_aMnLRfYD7q8IVSA",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "1 hour ago",
+          "stats": {
+            "views": 1247
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/V_kD2q_aoy8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlOU0bPMWQQFS7UUNPBxgOG-Ww0g",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/V_kD2q_aoy8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOZA7XZ9SnkpPzvrzJuIgThC2Okw",
+              "width": 720
+            }
+          ],
+          "title": "Clon de Twitter Full Stack con Next.js 13, React, Supabase, TailwindCSS",
+          "videoId": "V_kD2q_aoy8"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/tBEPr-zTNXEeae7VZKSZYfiy6azzs9OHowq5ZvogJeHoVtKtEw2PXSwzMBKVR7W0MI7gyND8=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [
+              {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+              }
+            ],
+            "canonicalBaseUrl": "/@programmingwithmosh",
+            "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+            "title": "Programming with Mosh"
+          },
+          "badges": [],
+          "descriptionSnippet": "0:00:00 Introduction 0:00:52 Prerequisites 0:01:28 How to Take This Course 0:02:57 What is TypeScript? 0:07:38 Setting Up the ...",
+          "isLiveNow": false,
+          "lengthSeconds": 3868,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/d56mG7DezGs/mqdefault_6s.webp?du=3000&sqp=CKT0iKcG&rs=AOn4CLAl9RGj5i8Q9tr2hLeUlF4VA4_pAA",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "1 year ago",
+          "stats": {
+            "views": 741575
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/d56mG7DezGs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCp58c546g6epp5q2y8i2X2t5IUgQ",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/d56mG7DezGs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSvF5_2xk3_x3H5lFdRuHrhNVVzw",
+              "width": 720
+            }
+          ],
+          "title": "TypeScript Tutorial for Beginners",
+          "videoId": "d56mG7DezGs"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/ytc/AOPolaQ2iMmw9cWFFjnwa13nBwtZQbl-AqGYkkiTqNaTLg=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [
+              {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+              }
+            ],
+            "canonicalBaseUrl": "/@Fireship",
+            "channelId": "UCsBjURrPoezykLs9EqgamOA",
+            "title": "Fireship"
+          },
+          "badges": [
+            "4K"
+          ],
+          "descriptionSnippet": "#dev#graphql #100SecondsOfCode Install the quiz app iOS https://itunes.apple.com/us/app/fireship/id1462592372?mt=8 ...",
+          "isLiveNow": false,
+          "lengthSeconds": 142,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/eIQh02xuVw4/mqdefault_6s.webp?du=3000&sqp=CLLziKcG&rs=AOn4CLC9OqzB6o8wzFFkh7PUQzukg4G4Tg",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "2 years ago",
+          "stats": {
+            "views": 918946
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/eIQh02xuVw4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVc2860nW92bEAZv_7_nR0XDbq6A",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/eIQh02xuVw4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0Wt4SP86a7DGnLPGiyBNfmDqucA",
+              "width": 720
+            }
+          ],
+          "title": "GraphQL Explained in 100 Seconds",
+          "videoId": "eIQh02xuVw4"
+        }
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/ytc/AOPolaQ2iMmw9cWFFjnwa13nBwtZQbl-AqGYkkiTqNaTLg=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [
+              {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+              }
+            ],
+            "canonicalBaseUrl": "/@Fireship",
+            "channelId": "UCsBjURrPoezykLs9EqgamOA",
+            "title": "Fireship"
+          },
+          "badges": [
+            "4K"
+          ],
+          "descriptionSnippet": "Vite is a JavaScript build tool that makes it faster and easier to build web applications. It's similar to tools like Webpack, but relies ...",
+          "isLiveNow": false,
+          "lengthSeconds": 149,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/KCrXgy8qtjM/mqdefault_6s.webp?du=3000&sqp=CP_fiKcG&rs=AOn4CLBhUdB6gpFzM4N3-hn2zBEttw_jbQ",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "1 year ago",
+          "stats": {
+            "views": 590768
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/KCrXgy8qtjM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8fnmqA19rqkts7LL7YZ37C59Bog",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/KCrXgy8qtjM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARjXlvWemcj-CWi2gebYbuJ2fOhg",
+              "width": 720
+            }
+          ],
+          "title": "Vite in 100 Seconds",
+          "videoId": "KCrXgy8qtjM"
+        }
+      },
+      {
+        "playlist": {
+          "author": {
+            "badges": [
+              {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+              }
+            ],
+            "canonicalBaseUrl": "/@NetNinja",
+            "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+            "title": "The Net Ninja"
+          },
+          "playlistId": "PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw",
+          "stats": {
+            "videos": 14
+          },
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/A63UxsQsEbU/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBSKVMef0YoATq5D2EzyclCLKVK-w",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/A63UxsQsEbU/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAxdighZX40G0z0gk8IoIsWEwLYOw",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/A63UxsQsEbU/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDKWeM9B5azzjbxTRrYZn7IE86Vwg",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/A63UxsQsEbU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAKiplUdtgceVIB65E6C19EsNklyw",
+              "width": 336
+            }
+          ],
+          "title": "Next.js Tutorial for Beginners",
+          "updatedTime": null,
+          "updatedTimeText": null
+        },
+        "type": "playlist"
+      },
+      {
+        "playlist": {
+          "author": {
+            "badges": [
+              {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+              }
+            ],
+            "canonicalBaseUrl": "/@CodeWithHarry",
+            "channelId": "UCeVMnSShP_Iviwkknt83cww",
+            "title": "CodeWithHarry"
+          },
+          "playlistId": "PLu0W_9lII9agtWvR_TZdb_r0dNI8-lDwG",
+          "stats": {
+            "videos": 79
+          },
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/DZKOunP-WLQ/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLA-IWqSmczutqUrNbEoahErW74g3A",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/DZKOunP-WLQ/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLACHeHcePRkVaO4dAtddwXXjW1x1g",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/DZKOunP-WLQ/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCmpzOCU5dPkQORwq2GZMhU-6xwHw",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/DZKOunP-WLQ/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDyJYI0-xTInWWie8sEKg8D-Ou6uw",
+              "width": 336
+            }
+          ],
+          "title": "Next.js Tutorials for Beginners in Hindi",
+          "updatedTime": null,
+          "updatedTimeText": null
+        },
+        "type": "playlist"
+      },
+      {
+        "type": "video",
+        "video": {
+          "author": {
+            "avatar": [
+              {
+                "height": 68,
+                "url": "https://yt3.ggpht.com/4NapxEtLcHQ6wN2zA_DMmkOk47RFb_gy6sjSmUZGg_ARHjlIUjFsrNFddrcKMkTYpBNxCp3J=s68-c-k-c0x00ffffff-no-rj",
+                "width": 68
+              }
+            ],
+            "badges": [
+              {
+                "text": "Verified",
+                "type": "VERIFIED_CHANNEL"
+              }
+            ],
+            "canonicalBaseUrl": "/@t3dotgg",
+            "channelId": "UCbRP3c757lWg9M-U7TyEkXA",
+            "title": "Theo - t3․gg"
+          },
+          "badges": [
+            "4K"
+          ],
+          "descriptionSnippet": "My App Router Review is finally ready! After 6 months of using Next.js's new App Router almost every day, I felt like I had enough ...",
+          "isLiveNow": false,
+          "lengthSeconds": 970,
+          "movingThumbnails": [
+            {
+              "height": 180,
+              "url": "https://i.ytimg.com/an_webp/zsa9Ey9INEg/mqdefault_6s.webp?du=3000&sqp=CJjBiKcG&rs=AOn4CLA9LjEjeM-KodnDQlO1raf6Qowm2w",
+              "width": 320
+            }
+          ],
+          "publishedTimeText": "1 month ago",
+          "stats": {
+            "views": 44407
+          },
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://i.ytimg.com/vi/zsa9Ey9INEg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXX8UXgVxqeHJXQHxOM1x70FHxww",
+              "width": 360
+            },
+            {
+              "height": 404,
+              "url": "https://i.ytimg.com/vi/zsa9Ey9INEg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkzLJoFW64FZJ4ir01z0L9V5L9tQ",
+              "width": 720
+            }
+          ],
+          "title": "Next.js App Router REVIEW (Six Months In Prod)",
+          "videoId": "zsa9Ey9INEg"
+        }
+      }
+    ],
+    "cursorNext": "EpoDEgduZXh0IGpzGo4DU0JTQ0FRczJjRkJIYjA1MmIzTjVaNElCQzFVMU1UZFlaalJNZUZGUmdnRUxTWEZLYkZkMFZURkpXa1dDQVF0QlZEY3dVRlppWkdaQ1NZSUJDMVpSVDJJdGFYZFBjMHhKZ2dFTGFsQlFjRTl2YWtGa1NFV0NBUXRXZEhGM2NtTnZlbWxLV1lJQkMyVTBSMFo2ZVhndFNuYzBnZ0VMZFdwUlMwdzNaRTVKU1VtQ0FRdHRWVW8yVkZsRVlUUnBVWUlCQzJaYVdIcG5RVzVrV2kxUmdnRUxaRnBYWlZwSVltNWpaamlDQVF0NFdXZENOWEJ4YkRKM09JSUJDMTlzTldnNE0wSndhUzFyZ2dFTE1IQXhSbWxYVlY5TFNuZUNBUXRZU0VWalpHaDZRVTgyTUlJQkMzYzBVREpuVjJsd1QybDNnZ0VMWnpNeFJtMW1SRmgwZW5PQ0FRczBYMG8zUkZkNFExQk5hNElCQzNwellUbEZlVGxKVGtWbnNnRUdDZ1FJR2hBQzZnRUNDQUUlM0QYgeDoGCILc2VhcmNoLWZlZWQ%3D",
+    "didYouMean": null,
+    "estimatedResults": 21750177,
+    "filterGroups": null,
+    "refinements": [
+      "next js tailwind",
+      "next js backend",
+      "next js 13",
+      "next js explained",
+      "next js fireship",
+      "nextjs portfolio",
+      "next js ecommerce app",
+      "next js 13 project",
+      "next 13 project",
+      "next js tutorial tamil",
+      "next js typescript",
+      "next js freecodecamp",
+      "next js 12",
+      "next js website",
+      "next js vs react",
+      "next js 13 tutorial hindi",
+      "next js tutorial 2023"
+    ]
+  }
