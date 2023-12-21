@@ -15,8 +15,6 @@ import PlaylistCard from './PlaylistCard';
 
 import dummyData from './response.json';
 
-const API_KEY = 'AIzaSyDtFQb_Pas1NYRGadShXcyEcjCFCreFfi8';
-
 const SearchScreen = () => {
   const navigation = useNavigation();
   const [isFetching, setIsFetching] = useState(false);
